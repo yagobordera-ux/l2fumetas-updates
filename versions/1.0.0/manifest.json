@@ -1,0 +1,47 @@
+{
+    "version":  "1.0.0",
+    "channel":  "stable",
+    "server":  "l2ganjah",
+    "published":  "2026-11-01T20:07:42.1332119Z",
+    "baseUrl":  "https://raw.githubusercontent.com/yagobordera-ux/l2fumetas-updates/main/",
+    "notes":  "Parche inicial L2FUMETAS: nombres de servidor (l2ganjah / Test Server) y direccion del Login.",
+    "launcher":  {
+                     "version":  "1.0.0",
+                     "file":  "https://github.com/yagobordera-ux/l2fumetas-updates/releases/download/launcher-1.0.0/L2FUMETAS-1.0.0.exe",
+                     "size":  67072,
+                     "sha256":  "D4EB4E9EB2BA5712FE33D3A38DA0086329C5FCED5BBEAEDED16D60D5B71F893A"
+                 },
+    "delete":  [
+
+               ],
+    "files":  [
+                  {
+                      "path":  "launcher/launcher.ico",
+                      "size":  12211,
+                      "sha256":  "AD65AE625A3348274E49664FA272FCFD31B7CA0CCEC06E78C484703BB644E9E8",
+                      "base":  false,
+                      "url":  "https://github.com/yagobordera-ux/l2fumetas-updates/releases/download/v1.0.0/AD65AE625A3348274E49664FA272FCFD31B7CA0CCEC06E78C484703BB644E9E8"
+                  },
+                  {
+                      "path":  "launcher/logo.png",
+                      "size":  25558,
+                      "sha256":  "C7CB14A87A01886B57515406213AE4846373D426E509FCB97C0A2574D425691F",
+                      "base":  false,
+                      "url":  "https://github.com/yagobordera-ux/l2fumetas-updates/releases/download/v1.0.0/C7CB14A87A01886B57515406213AE4846373D426E509FCB97C0A2574D425691F"
+                  },
+                  {
+                      "path":  "system/l2.ini",
+                      "size":  3888,
+                      "sha256":  "6E4AB4685C10127A2617DDF95171BCD24B5D3FC6D400FBEDBA0B4D9283C81ECB",
+                      "base":  false,
+                      "url":  "https://github.com/yagobordera-ux/l2fumetas-updates/releases/download/v1.0.0/6E4AB4685C10127A2617DDF95171BCD24B5D3FC6D400FBEDBA0B4D9283C81ECB"
+                  },
+                  {
+                      "path":  "system/servername-e.dat",
+                      "size":  1072,
+                      "sha256":  "2722884A6D85342D1033E798A73558B87F5FC649A06119A71E214EAAB5DD7DCA",
+                      "base":  false,
+                      "url":  "https://github.com/yagobordera-ux/l2fumetas-updates/releases/download/v1.0.0/2722884A6D85342D1033E798A73558B87F5FC649A06119A71E214EAAB5DD7DCA"
+                  }
+              ]
+}
